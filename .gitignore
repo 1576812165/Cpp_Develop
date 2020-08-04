@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Custom
+Learn/Project/
+Learn/Debug/
+Learn/Output/
+Learn/CppPrimer-master/
+Learn/GCC_4_7_0/
+Learn/GCC_4_7_0.zip
