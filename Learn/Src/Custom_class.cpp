@@ -1,4 +1,4 @@
-#include "Sales_data.h"
+#include "Custom_class.h"
 
 
 Sales_data& Sales_data::combine(const Sales_data &rhs)
@@ -49,4 +49,5 @@ Sales_data::Sales_data(std::istream& is)
 {
     read(is, *this);
 }
+
 
